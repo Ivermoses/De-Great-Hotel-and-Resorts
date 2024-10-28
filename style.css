@@ -169,7 +169,7 @@ body{
   padding-block: 5rem;
   background-image: linear-gradient(rgba(15, 26, 44,.5),
   rgba(15, 26, 44,.5)),
-  url("/img/hotelbanner.jpg");
+  url("img/hotelbanner.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -237,7 +237,7 @@ body{
   right: 0;
   height: 75%;
   width: 100%;
-  background-image: url(/img/miami\ copy.jpg);
+  background-image: url(img/miami\ copy.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
